@@ -2,7 +2,7 @@ title: aditya sundarrajan
 description: 
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: minima
 
 gems:
-  - jekyll-mentions
+  - minima
